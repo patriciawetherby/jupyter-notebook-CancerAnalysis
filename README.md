@@ -4,13 +4,8 @@ WGU CS Capstone - Cancer Analysis Project
 Description: This application allows users to enter in a County and State name and the program uses a Linear Regression formula to calculate the predicted death rate
 cancer in that county based on cancer death count, cancer incident count, cancer incidence rate, and median income.
 
-Date: 01/22/2023
-Author: Patricia Wetherby
-Contact: pcampo2@wgu.edu
-Student Application Version: Jupyter Notebooks
 Hosted with Google Colab
 --------------------------
-
 
 Directions:
 
